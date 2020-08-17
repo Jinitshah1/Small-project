@@ -1,5 +1,6 @@
 #Deleting different dictionary elements
 #create a dictionary first
+#delete by index
 mydictionary = {}
 mylist = list(mydictionary)
 list1 = int(input("Enter the no.of elements of dictionary: "))
